@@ -28,6 +28,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="QWF-dq-64D"/>
                     </view>
+                    <connections>
+                        <outlet property="imageView" destination="q5H-sX-gBQ" id="lBa-TP-y5p"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AkQ-Mf-kSR" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
